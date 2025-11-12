@@ -1,7 +1,12 @@
 🧩 Bandit Level 1 → Level 2
 
 ⚙️ Steps
+-cd ..
+-cat /home/bandit1/-
+-password retrieved
 
 💡 Insights
+u can also use -- as flag for cat -> cat -- -
 
 🚩 Flag
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx

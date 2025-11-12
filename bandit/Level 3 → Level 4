@@ -1,7 +1,14 @@
 🧩 Bandit Level 3 → Level 4
 
 ⚙️ Steps
+-ls
+-cd inhere
+-ls -la
+-cat ./...Hiding-From-You
+-password retrieved
 
 💡 Insights
+used -a flag for hidden files/dir
 
 🚩 Password
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

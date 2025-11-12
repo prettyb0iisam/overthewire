@@ -1,0 +1,12 @@
+🧩 Bandit Level 0
+
+⚙️ Steps
+-ssh bandit0@bandit.labs.overthewire.org -p 2220
+-password: bandit0
+access granted
+
+💡 Insights
+to perform a connection using ssh: username@host -p (port)
+
+🚩 Flag
+///

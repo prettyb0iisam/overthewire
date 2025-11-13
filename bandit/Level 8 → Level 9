@@ -1,0 +1,17 @@
+🧩 Bandit Level 8 → Level 9
+
+⚙️ Steps
+-ls
+-cat data.txt
+-cat data.txt | sort | uniq -c 
+-cat data.txt | sort | uniq -c | grep -v 10
+-ouput: 1  4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+-password retrieved
+
+💡 Insights
+sort -> recieve and input and it prints out it sorted
+uniq -c -> prints only uniq lines. -c flag is count
+grep -v -> in grep, -v means avoid
+
+🚩 Password
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

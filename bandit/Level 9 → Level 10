@@ -1,0 +1,12 @@
+🧩 Bandit Level 9 → Level 10
+
+⚙️ Steps
+-ls
+-strings data.txt | grep =
+-password retrieved
+
+💡 Insights
+strings prints only human readable strings from the file
+
+🚩 Password
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

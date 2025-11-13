@@ -6,6 +6,8 @@
 -echo "VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg==" | base64 --decode
 -password retrieved
 
+or in one command line: cat data.txt | base64 --decode
+
 💡 Insights
 how to decode from base64, just specify using --decode flag
 

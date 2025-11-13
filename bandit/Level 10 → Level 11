@@ -1,0 +1,13 @@
+🧩 Bandit Level 10 → Level 11
+
+⚙️ Steps
+-ls
+-cat data.txt
+-echo "VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg==" | base64 --decode
+-password retrieved
+
+💡 Insights
+how to decode from base64, just specify using --decode flag
+
+🚩 Password
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

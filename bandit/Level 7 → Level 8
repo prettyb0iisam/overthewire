@@ -1,0 +1,13 @@
+🧩 Bandit Level 7 → Level 8
+
+⚙️ Steps
+-ls
+-cat data.txt     (dont do that!)
+-cat data.txt | grep millionth
+-password retrieved
+
+💡 Insights
+grep filters output
+
+🚩 Password
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

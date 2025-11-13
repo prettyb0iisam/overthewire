@@ -1,0 +1,15 @@
+🧩 Bandit Level 6 → Level 7 
+
+⚙️ Steps
+-ls
+-find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+-output: /var/lib/dpkg/info/bandit7.password
+-cat /var/lib/dpkg/info/bandit7.password
+-password retrieved
+
+💡 Insights
+-user and -group flags specify the file's user and group owner
+2>/dev/null cleans the output from garbage, errors and permission denies
+
+🚩 Password
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

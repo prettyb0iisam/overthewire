@@ -1,8 +1,20 @@
 🧩 Bandit Level 5 → Level 6 
 
 ⚙️ Steps
+-ls
+-cd inhere
+-ls
+-find . -type f -size 1033c ! -executable
+output: ./maybehere07/.file2
+-cat ./maybehere07/.file2
+-password retrieved
 
 💡 Insights
+super usefull challenge to learn how to use find command
+. -> find in entire system
+-type f -> specify that we r looking for a file, not a dir
+-size [N]c -> dimension. c specify that dimension is in bytes
+! -executable -> the file is not executable
 
 🚩 Password
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
